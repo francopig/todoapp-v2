@@ -2,8 +2,8 @@
 
 ## Utilizar en la web
 
-- Netlify -> [Blackjackv2]( https://francopig-todoapp.netlify.app/)
-- Github -> [Blackjackv2](https://francopig.github.io/blackjackv2/)
+- Netlify -> [Todo-App 2.0]( https://francopig-todoapp.netlify.app/)
+- Github -> [Todo-App 2.0](https://francopig.github.io/todoapp-v2/)
 
 ### HTML Template
 
